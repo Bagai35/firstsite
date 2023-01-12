@@ -145,16 +145,16 @@ ul.menu {
 
 ul.menu li {
     float: left;
-    padding: 0 0 0 9px;
+    padding: 0 0 0 10px;
     list-style: none;
-    margin: 1px 2px 0 0;
+    margin: 1px 10px 0 0;
 }
 
 ul.menu li a {
-    font: normal 100% 'trebuchet ms', sans-serif;
+    font: normal 150% 'trebuchet ms', sans-serif;
     display: block;
-    height: 20px;
-    padding: 6px 35px 5px 28px;
+    height: 10px;
+    padding: 10px 30px 0px 28px;
     color: #ccef03;
     text-decoration: none;
 }
@@ -386,7 +386,7 @@ td img {
     height: 100px;
     padding: 28px 0 5px 0;
     text-align: center;
-    background-color: #ff0000;
+    background-color: #d72525;
     color: #343432;
     margin-left: 0px;
     margin-right: 0px;
@@ -394,12 +394,12 @@ td img {
 }
 
 .footer a {
-    color: #343432;
+    color: #ffffff;
     text-decoration: none;
 }
 
 .footer a:hover {
-    color: #fff;
+    color: rgb(227, 0, 0);
     text-decoration: none;
 }
 
